@@ -1,2 +1,2 @@
-# ALS-Malitbog-Website
-Access to ALS programs
+# ALSWebsite
+A Website for ALS
